@@ -1,5 +1,7 @@
 #####################################################
+
             WEBDRIVER IO TEST AUTOMATION
+
 #####################################################
 
 This is a demo project leveraging WebDriver IO technology to automate web-apps build on Angular/ReactJS.
