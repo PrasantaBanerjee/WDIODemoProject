@@ -9,12 +9,13 @@ The framework incorporates design principles of POM (Page Object Model) which pr
 Tools & Libraries:
 ====================
 The test automation framework is comprised of the following tools & libraries:
-  1. JavaScript : Programming language.
+  1. NodeJS : JavaScript runtime environment.
   2. WebDriver IO : Web browser automation library.
   3. Mocha : Test framework.
   4. Allure Reporting : For generating Test Reports.
-  4. Git : Version control.
-  5. VSCode : Integrated Development Environment. 
+  5. Git : Version control.
+  6. JavaScript : Programming language.
+  7. VSCode : Integrated Development Environment. 
 
 Developed & Maintained by:
 ============================
